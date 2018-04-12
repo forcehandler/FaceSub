@@ -1,0 +1,6 @@
+demo/
+examples/
+models/
+*.pyc
+*.dat
+!*.py
